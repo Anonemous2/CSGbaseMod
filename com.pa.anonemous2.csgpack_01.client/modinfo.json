@@ -1,0 +1,21 @@
+{
+	"author": "Anonemous2",
+	"build": "109959",
+	"context": "client",
+	"date": "2020-5-21",
+	"display_name": "CSG Pack 01",
+	"description": "Adds in new CSGs for use in the system editor. Requires the server mod to host on.",
+	"forum": "somewhere",
+	"identifier": "com.pa.anonemous2.csgpack_01.client",
+	"signature": "not yet implemented",
+	"version": "0.1.0",
+	"icon": "needed",
+	"scenes": {
+        "system_editor": [
+			"coui://ui/mods/com.pa.anonemous2.csgpack_01.client/system_editor.js"
+      ]	},  
+	"category":
+	[
+		"CSG"
+	]
+}
