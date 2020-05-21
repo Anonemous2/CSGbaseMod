@@ -1,0 +1,8 @@
+(CSG/Feature)
+papatran.exe --texture-mode reference -o "___.papa" "___.fbx"
+
+(Textures)
+papatran.exe --texture-mode include -o "___.papa" "___.png"
+
+(Unit Models/Animations)
+papatran.exe --texture-mode strip -o "___.papa" "___.fbx"
